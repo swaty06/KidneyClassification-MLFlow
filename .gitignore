@@ -220,3 +220,5 @@ research/archive.7z
 *.csv
 data/
 datasets/
+
+.ipynb_checkpoints/
