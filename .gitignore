@@ -207,4 +207,16 @@ marimo/_lsp/
 __marimo__/
 
 
-artifacts/*
+artifacts/
+research/archive.7z
+*.7z
+*.zip
+
+# Model files
+*.h5
+*.pkl
+
+# Data files
+*.csv
+data/
+datasets/
