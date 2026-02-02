@@ -213,7 +213,7 @@ research/archive.7z
 *.zip
 
 # Model files
-*.h5
+
 *.pkl
 
 # Data files
