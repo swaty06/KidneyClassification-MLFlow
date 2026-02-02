@@ -11,7 +11,7 @@ from zipfile import ZipFile
 import tensorflow as tf
 import time
 from pathlib import Path
-from cnnClassifier.entity.config_entity import TrainingConfig
+from src.cnnClassifier.entity.entity_config import TrainingConfig
 tf.config.run_functions_eagerly(True)
 
 class Training:
